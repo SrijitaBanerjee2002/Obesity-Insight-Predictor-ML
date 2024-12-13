@@ -76,7 +76,7 @@ df['Age'] = np.floor(df['Age'])
 df['BMI'] = (df['Weight'] / (df['Height'] ** 2)) * 703
 df['BMI'] = df['BMI'].round(1)
 
-df.to_csv('ObesityDataSet_modified.csv', index=False)
+df.to_csv('ObesityDataSet.csv', index=False)
 
 
 
