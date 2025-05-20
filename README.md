@@ -36,11 +36,12 @@ While this was a collaborative team project, this fork highlights **my individua
 - Labels: 7 multiclass obesity levels including "Normal Weight", "Obesity Type I", etc.
 
 ## Project Structure
+```
 ├── dataCleaning.py # Custom data preprocessing script
 ├── CS412Project.ipynb # Main notebook (model training + evaluation)
 ├── ObesityDataSet.csv # Dataset used for training/testing
 ├── Final Report + Slides # PDF deliverables from class (in /docs or root)
-
+```
 ## 🙋‍♀️ About Me
 Hi! I’m Srijita Banerjee, a recent Computer Science graduate from UIC passionate about applying ML to meaningful, real-world problems.  
 This project was an early but important step in my journey into machine learning, and I’m proud of what we built as a team.
